@@ -6,7 +6,7 @@ Copyright 2025 IIASA and the SPARCCLE consortium
 
 ## Overview
 
-<img src="https://ra.sangapa-travels.com/wp-content/uploads/2023/10/SPARCCLE-Icon-Spinner.svg" height="120" align="right" alt="AMIGDALA Project Logo">
+<img src="https://ra.sangapa-travels.com/wp-content/uploads/2023/10/SPARCCLE-Icon-Spinner.svg" height="120" align="right" alt="SPARCCLE Project Logo">
 
 SPARCCLE is a Horizon Europe project that is co-developing modelling tools with policymakers, scientists and civil society to support us all in making better decisions to reduce the risks and build resilience within the society and economy of Europe in the face of climate change.
 
