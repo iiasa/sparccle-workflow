@@ -6,7 +6,7 @@ Copyright 2025 IIASA and the SPARCCLE consortium
 
 ## Overview
 
-<img src="images/sparccle_logo.png" height="80" align="right" alt="SPARCCLE Project Logo">
+<img src="images/sparccle_logo.png" height="100" align="right" alt="SPARCCLE Project Logo">
 
 SPARCCLE is a Horizon Europe project that is co-developing modelling tools with policymakers, scientists and civil society to support us all in making better decisions to reduce the risks and build resilience within the society and economy of Europe in the face of climate change.
 
